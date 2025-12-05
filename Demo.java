@@ -8,6 +8,10 @@ public class Demo{
         String value="Dayanand";
         System.out.println(value.length());
         Map<Character, Integer> ch=new HashMap<>();
-        
+        ch.put('h',2);
+        ch.put('e',2);
+        ch.put('l',2);
+        ch.put('l',2);
+        ch.put('o',2);
     }
 }
